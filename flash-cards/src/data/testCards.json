@@ -1,35 +1,37 @@
 [
   {
-    "text": "Card 01, Lorem red ipsum dolor sit amet...",
-    "image": "https://1.bp.blogspot.com/-tVeC6En4e_E/X96mhDTzJNI/AAAAAAABdBo/jlD_jvZvMuk3qUcNjA_XORrA4w3lhPkdQCNcBGAsYHQ/s400/onepiece01_luffy.png"
+    "text": "Look at the picture. Choose a food and describe it.",
+    "image": "https://2.bp.blogspot.com/-n1-71d0JCmg/WMfB_dW2OpI/AAAAAAABCj0/EmOvIE7TY8QkMrHhGgeJewV3fmXmdg62gCLcB/s450/food_omoide.png"
   },
   {
-    "text": "Card 02, Lorem red ipsum dolor sit amet...",
-    "image": "https://1.bp.blogspot.com/-2ut_UQv3iss/X-Fcs_0oAII/AAAAAAABdD8/jrCZTd_xK-Y6CP1KwOtT_LpEpjp-1nvxgCNcBGAsYHQ/s400/onepiece03_nami.png"
+    "text": "Look at the picture. Describe the room.",
+    "image": "https://3.bp.blogspot.com/-AQcnCK9SoJo/UnIENrWJ0-I/AAAAAAAAaAY/uQ8pYx-XaCM/s800/room_kodomobeya.png"
   },
   {
-    "text": "Card 03, Lorem red ipsum dolor sit amet...",
-    "image": "https://1.bp.blogspot.com/--9Rl2O4BBN0/X-Fct8K5mqI/AAAAAAABdEI/yLOziAqJO34fwn73AolVP0e42A2h-ql1QCNcBGAsYHQ/s400/onepiece06_chopper.png"
+    "text": "Describe your usual Fridays. What do you do? (Routine)"
   },
   {
-    "text": "Card 04, Lorem red ipsum dolor sit amet..."
+    "text": "Say this number: 687,319"
   },
   {
-    "text": "Card 05, Lorem red ipsum dolor sit amet..."
+    "text": "Put this phrase in order (語順): spell / you / that / how / do"
   },
   {
-    "text": "Card 06, Lorem red ipsum dolor sit amet..."
+    "text": "How do you get to this classroom? Give directions.",
+    "image": "https://3.bp.blogspot.com/-8NKYZTR2p3k/W-VEjTGpRGI/AAAAAAABQGg/NXH8bcXl7AUcuKaDVpzSCidakjdbOCMmQCLcBGAs/s400/smartphone_map_app_woman.png"
   },
   {
-    "text": "Card 07, Lorem red ipsum dolor sit amet..."
+    "text": "Ask your classmate: Can you cook? + 2 follow-up questions"
   },
   {
-    "text": "Card 08, Lorem red ipsum dolor sit amet..."
+    "text": "Describe your usual Fridays. What do you do? (Routine)"
   },
   {
-    "text": "Card 09, Lorem red ipsum dolor sit amet..."
+    "text": "Introduce a Japanese holiday: What is it? When is it? (Ex. Coming of age day is on January 11th)",
+    "image": "https://2.bp.blogspot.com/-PcnLhTVHfW8/UVV9CTH45WI/AAAAAAAAPFg/foAdl0FLUjg/s450/half_seijinshiki.png"
   },
   {
-    "text": "Card 10, Lorem red ipsum dolor sit amet..."
+    "text": "Think of a job. Describe it and your classmates guess.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Png-transparent-profession-women-job-actor-miscellaneous-celebrities-child.png"
   }
 ]
